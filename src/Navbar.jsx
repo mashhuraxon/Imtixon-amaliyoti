@@ -14,7 +14,7 @@ const Navbar = () => {
 
 
         <ul className='flex gap-10'>
-            <li className='text-xl text-black font-bold '><Link to='home'>Home</Link></li>
+            <li className='text-xl text-black font-bold '><Link to='/'>Home</Link></li>
             <li className='text-xl text-black font-bold '><Link to='about'>About</Link></li>
             <li className='text-xl text-black font-bold '><Link to='portfolio'>Portfolio</Link></li>
             <li className='text-xl text-black font-bold '><Link to='contact'>Contact</Link></li>
